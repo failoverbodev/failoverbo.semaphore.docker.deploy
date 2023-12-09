@@ -1,1 +1,1 @@
-# failoverbo.semaphore.docker.deploy
+# semaphore.docker.deploy
